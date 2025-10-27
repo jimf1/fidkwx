@@ -1,3 +1,4 @@
 *.zip
 admin/FAA Data/APT.txt
 admin/FAA Data/ARPT.txt
+settings/dbvars.php
