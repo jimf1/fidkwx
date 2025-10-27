@@ -29,7 +29,7 @@ $_SESSION["width"] = $width;
 
 <body>
 
-<h1 align="center" class="pageHeading">Jim's FIDK Weather </h1>
+<h1 align="center" class="pageHeading">FIDK Weather </h1>
 <p align="center" class="menutext">Current GMT is: <?php
 		echo ' '. gmdate ("M d Y H:i:s");
 	?>
