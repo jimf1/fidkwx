@@ -1,0 +1,168 @@
+body {
+    width: none;
+    font: 12pt Helvetica;
+} 
+img, table {
+    max-width: none;
+} 
+table {
+    width: 100%;
+}
+
+.button {
+  font-family: Helvetica;
+  font-size: medium;
+  background-color: #FFCC66;
+}
+.pageHeading {
+  font-family: Helvetica;
+  font-size: x-large;
+  font-weight: bold;
+}
+.pageContent {
+        width: 100%;
+}
+.fidkform {
+  border: thin none;
+  vertical-align: middle;
+  background-color: #6699FF;
+}
+.menutext {
+	font-family: Helvetica;
+	font-size: medium;
+}
+.menuDivider {
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: bolder;
+  color: #0000FF;
+}
+.regularText {
+  font-family: Helvetica;
+  font-size: medium;
+}
+.smallText {
+  font-family: Helvetica;
+  font-size: medium;
+}
+.subHeading {
+  font-family: Helvetica;
+  font-size: large;
+  color: #0066FF;
+  font-variant: normal;
+  font-weight: bold;
+}
+.tableTag {
+  font-family: Helvetica;
+  font-size: large;
+  font-weight: bold;
+}
+.message {
+  font-family: Helvetica;
+  font-size: medium;
+  font-weight: bold;
+  color: #006600;
+  font-style: italic;
+}
+a:link {color: #008000; text-decoration: none; }
+a:active {color: #0000ff; text-decoration: none; }
+a:visited {color: #008000; text-decoration: none; }
+a:hover {color: #ff0000; text-decoration: none; }
+
+.TAFLEAD  {
+    font-family: Helvetica;
+    font-size: medium;
+    color: black;
+    font-weight: bold;  
+}
+.TAF  {
+    font-family: Helvetica;
+    font-size: medium;
+    color: black; 
+}
+.VFR {
+  font-family: Helvetica;
+  font-size: medium;
+  color: green;
+}
+.VFR a:link { color: green; }
+
+.MVFR {
+  font-family: Helvetica;
+  font-size: medium;
+  color: blue;
+}
+
+.MVFR a:link { color: blue; }
+
+.IFR {
+  font-family: Helvetica;
+  font-size: medium;
+  color: red;
+}
+.IFR a:link { color: red; }
+
+.LIFR {
+  font-family: Helvetica;
+  font-size: medium;
+  color: magenta;
+}
+.LIFR a:link { color: magenta; }
+
+.UNK {
+  font-family: Helvetica;
+  font-size: medium;
+  color: gray;
+}
+.UNK a:link { color: gray; }
+
+.SIGMET  {
+    font-family: Helvetica;
+    font-size: medium;
+    color: red;
+}
+
+.OUTLOOK  {
+    font-family: Helvetica;
+    font-size: medium;
+    color: black;
+}
+
+.PIREP  {
+    font-family: Helvetica;
+    font-size: medium;
+    color: black;
+}
+
+.UPIREP  {
+    font-family: Helvetica;
+    font-size: medium;
+    color: red;
+}
+
+.oldasp  {
+    font-family: Helvetica;
+    font-size: medium;
+    color: gray;
+}
+
+.oobasp  {
+    font-family: Helvetica;
+    font-size: medium;
+    color: purple;
+}
+
+.data {
+  font-family: Helvetica;
+  font-size: medium;
+  color: black;
+}
+.old {
+  color: red;
+}
+.card {
+  font-family: Helvetica;
+  font-size: small;
+  color: black;
+}
+

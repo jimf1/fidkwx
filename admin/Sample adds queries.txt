@@ -1,0 +1,41 @@
+http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=metars&requestType=retrieve&format=xml&minLat=25&minLon=-130&maxLat=65&maxLon=-40&hoursBeforeNow=3
+
+
+
+2 points
+http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=metars&requestType=retrieve&format=xml&flightPath=50;khef;kcho&hoursBeforeNow=3
+
+1 point (50 sm of HEF)
+http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=metars&requestType=retrieve&format=xml&radialDistance=50;-77.52,38.72&hoursBeforeNow=3
+
+List of stations
+http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=metars&requestType=retrieve&format=xml&stationString=KHEF,KIAD&hoursBeforeNow=3
+
+List of stations (most recent)
+http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=metars&requestType=retrieve&format=xml&stationString=KHEF,KIAD&hoursBeforeNow=3&mostRecentForEachStation=true
+
+
+Station info
+http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=stations&requestType=retrieve&format=xml&stationString=KHEF
+
+TAF (radial/distance):
+http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=tafs&requestType=retrieve&format=xml&radialDistance=20;-104.65,39.83&hoursBeforeNow=3
+
+
+TAF (route):
+http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=tafs&requestType=retrieve&format=xml&flightPath=57.5;-125.27,49.95;-104.65,39.83&hoursBeforeNow=3
+http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=tafs&requestType=retrieve&format=xml&hoursBeforeNow=3&flightPath=57.5;KHEF;KCHO
+
+
+AIRSIGMET (rectangle)
+http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=airsigmets&requestType=retrieve&format=xml&minLat=25&minLon=-130&maxLat=65&maxLon=-40&hoursBeforeNow=3
+
+AIRSIGMET (route)
+http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=airsigmets&requestType=retrieve&format=xml&flightPath=57.5;-125.27,49.95;KDEN&hoursBeforeNow=3
+http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=airsigmets&requestType=retrieve&format=xml&flightPath=57.5;KHEF;KCHO&hoursBeforeNow=3
+
+PIREP (radial/distance)
+http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=pireps&requestType=retrieve&format=xml&radialDistance=20;-104.65,39.83&hoursBeforeNow=3
+
+PIREP (Flight path)
+http://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=pireps&requestType=retrieve&format=xml&flightPath=57.5;KHEF;KCHO&hoursBeforeNow=3

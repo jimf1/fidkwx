@@ -1,0 +1,154 @@
+.button {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 12px;
+	background-color: #FFCC66;
+}
+.pageHeading {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+.fidkform {
+	border: thin none;
+	vertical-align: middle;
+	background-color: #6699FF;
+}
+.menutext {
+	font-family: Tahoma;
+	font-size: 12px;
+}
+.menuDivider {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bolder;
+	color: #0000FF;
+}
+.regularText {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 12px;
+}
+.smallText {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 12px;
+}
+.subHeading {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 14px;
+	color: #0066FF;
+	font-variant: normal;
+	font-weight: bold;
+}
+.tableTag {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+.message {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #006600;
+	font-style: italic;
+}
+a:link {color: #008000; text-decoration: none; }
+a:active {color: #0000ff; text-decoration: none; }
+a:visited {color: #008000; text-decoration: none; }
+a:hover {color: #ff0000; text-decoration: none; }
+
+.TAFLEAD  {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: black;
+    font-weight: bold;  
+}
+.TAF  {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: black; 
+}
+.VFR {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: green;
+}
+.VFR a:link { color: green; }
+
+.MVFR {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: blue;
+}
+
+.MVFR a:link { color: blue; }
+
+.IFR {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: red;
+}
+.IFR a:link { color: red; }
+
+.LIFR {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: magenta;
+}
+.LIFR a:link { color: magenta; }
+
+.UNK {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: gray;
+}
+.UNK a:link { color: gray; }
+
+.SIGMET  {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: red;
+}
+
+.OUTLOOK  {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: black;
+}
+
+
+.PIREP  {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: black;
+}
+
+.UPIREP  {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: red;
+}
+
+.oldasp  {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: gray;
+}
+
+.oobasp  {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: purple;
+}
+
+.data {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: black;
+}
+.old {
+	color: red;
+}
+.card {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: black;
+}
